@@ -2,6 +2,9 @@
 title: "Gale Digital Scholar Lab: Information, Tutorials, and Workshops"
 layout: "home"
 description: "The Gale Digital Scholar Lab is a platform that allows users to discover and create collections of digitized texts from the Gale Historical Collections, run a variety of textual analysis on them, and visualize the resulting data."
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 created_date: 2022-05-06
 permalink: "/"  #! Remove this if not the homepage
 ---
