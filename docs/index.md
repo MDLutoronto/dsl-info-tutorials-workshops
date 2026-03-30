@@ -1,7 +1,11 @@
 ---
 title: "Gale Digital Scholar Lab: Information, Tutorials, and Workshops"
 layout: "home"
-description: ""
+description: "The Gale Digital Scholar Lab is a platform that allows users to discover and create collections of digitized texts from the Gale Historical Collections, run a variety of textual analysis on them, and visualize the resulting data."
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+created_date: 2022-05-06
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -38,4 +42,4 @@ Gale also provides a variety of training materials related to the Digital Schol
 * [Recorded webinars and tutorials](https://support.gale.com/training/products/dslab) for the Digital Scholar Lab
 * [All Gale upcoming and recorded webinars](https://support.gale.com/training/webinars/), including Gale Primary Sources spotlights (if you are interested in specific archival collections)
 
-Technique: [Data Visualization](/technique/data-visualization), [Text and Data Mining](/technique/text-and-data-mining), [Extracting data](/technique/extracting-data) \| Tools: [Digital Scholar Lab](/tools/digital-scholar-lab-0)**Date Created:** 2022\-05\-06**Updated:** 2025\-09\-25
+Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining), [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
