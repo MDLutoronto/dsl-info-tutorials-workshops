@@ -29,7 +29,7 @@ Learning resources
 * This workshop covers a number of text and data mining tools, including the Gale Digital Scholar Lab (start at 05:50 for a short demo)
 * [Download the accompanying slides](https://docs.google.com/presentation/d/10Wh57pI8A4LQUTQeAyCyH27_u44C-FM_vov-9VHn7mA/edit?usp=sharing) and a [cheat sheet comparing various text analysis platforms](https://bit.ly/3B9YzXa)
 
-#### [https://play.library.utoronto.ca/embed/dcee158db446cb9a2dc4168eccf30f77?t=350](https://play.library.utoronto.ca/embed/dcee158db446cb9a2dc4168eccf30f77?t=350)
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/dcee158db446cb9a2dc4168eccf30f77?t=350" width="560">iframe not supported</iframe>
 
 ### Tutorials
 
