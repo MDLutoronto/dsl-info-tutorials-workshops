@@ -42,4 +42,4 @@ Gale also provides a variety of training materials related to the Digital Schol
 * [Recorded webinars and tutorials](https://support.gale.com/training/products/dslab) for the Digital Scholar Lab
 * [All Gale upcoming and recorded webinars](https://support.gale.com/training/webinars/), including Gale Primary Sources spotlights (if you are interested in specific archival collections)
 
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining), [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
