@@ -17,7 +17,6 @@ Getting started
 ---------------
 
 * Please visit our [guide on logging into the Gale Digital Scholar Lab](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/1-access/)
-* For general information and frequently asked questions (FAQs), [please refer to our overview of the platform](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab)
 
 Learning resources
 ------------------
