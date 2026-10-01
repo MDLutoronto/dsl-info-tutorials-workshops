@@ -16,7 +16,7 @@ The [Gale Digital Scholar Lab](https://www.gale.com/primary-sources/digital-scho
 Getting started
 ---------------
 
-* Please visit our [guide on logging into the Gale Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/logging-digital-scholar-lab-through-catalog)
+* Please visit our [guide on logging into the Gale Digital Scholar Lab](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/1-access/)
 * For general information and frequently asked questions (FAQs), [please refer to our overview of the platform](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab)
 
 Learning resources
@@ -33,7 +33,7 @@ Learning resources
 
 ### Tutorials
 
-* [Digital Humanities Tools: The Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab) will teach you how to build collections of texts, clean texts, and perform text analysis
+* [Digital Humanities Tools: The Digital Scholar Lab](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/) will teach you how to build collections of texts, clean texts, and perform text analysis
 
 ### Recorded webinars and tutorials from Gale
 
